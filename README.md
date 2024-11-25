@@ -4,6 +4,7 @@
 👨‍💻 With 3+ years of experience, I build decentralized applications and privacy-first solutions using ZKP and FHE.
 🎓 Final-year student at TKM College, Kollam, passionate about fostering innovation in Web3 through events and hackathons.
 ✨ Actively contributing to the blockchain ecosystem by hosting meetups, ecosystem calls, and collaborating with developer communities.
+<br>
 🛠️ Tech Stack
 Blockchain Development
 <p align="center"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/Move-4CAF50?style=for-the-badge&logo=sui&logoColor=white" alt="Move" /> <img src="https://img.shields.io/badge/Soroban-FFD700?style=for-the-badge&logo=stellar&logoColor=black" alt="Soroban" /> <img src="https://img.shields.io/badge/Ether.js-FE4A49?style=for-the-badge&logo=javascript&logoColor=white" alt="Ether.js" /> <img src="https://img.shields.io/badge/Web3.js-00D084?style=for-the-badge&logo=node.js&logoColor=white" alt="Web3.js" /> <img src="https://img.shields.io/badge/Truffle-5E4C9A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Truffle" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> </p>
