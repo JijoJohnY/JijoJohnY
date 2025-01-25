@@ -19,6 +19,7 @@ Unified dApp Platform: Building a platform to enable seamless access to all dApp
 Health Insurance Security: Developing solutions using blockchain and ZKPs to protect sensitive data.
 Community Building: Hosting Web3 IRL events to connect developers and enthusiasts.
 🏆 Achievements
+🏅 Winner: Akave Track at Eth-India 2024
 🏅 Winner: Stellar Track at Xinnovate Hackathon.
 🥇 Top 3 in Asia's first DEAI Hackathon by ELNA AI.
 🚀 Shipped 3+ projects during the Radar Hackathon.
